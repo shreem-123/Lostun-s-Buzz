@@ -1,5 +1,6 @@
 
 # Lostun's Buzz
+The project is live & deployed at : https://shreem-123.github.io/Lostun-s-Buzz/
 
 This project is a music player application developed using HTML, CSS, and JavaScript. It allows users to browse and play a collection of songs. The application provides a user-friendly interface with a list of songs, including their titles, artists, and album artwork. Users can click on a song to play it and control playback using the provided player controls.
 
